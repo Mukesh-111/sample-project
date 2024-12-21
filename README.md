@@ -1,3 +1,4 @@
 # sample-project
-just a simple project as beginner
-author - myself
+just a simple project as beginner.
+<br>
+Author - myself sudarshan
